@@ -2,7 +2,7 @@
   "name": "Official Cabal USD1",
   "symbol": "EAGLE",
   "description": "Let the USD1 WLFI cabal group handle this. 100% supply released on the LP. I'm out!",
-  "image": "https://github.com/ChickenFDN/eagle/blob/main/eagle.jpg",
+  "image": "https://raw.githubusercontent.com/ChickenFDN/eagle/main/eagle.jpg",
   "external_url": "https://x.com/i/status/1965842750462730319",
   "attributes": [
     { "trait_type": "Type", "value": "SPL Token" },
