@@ -1,7 +1,11 @@
-mpl-token-metadata create
---mint G88Bgu2D6GZnFRYok1UmPFm5sXqjX8nZAmUPukABeuH9
---name "Official Cabal USD1"
---symbol "EAGLE"
---uri "https://raw.githubusercontent.com/yourrepo/eagle/metadata.json"
-
-
+{
+  "name": "Official Cabal USD1",
+  "symbol": "EAGLE",
+  "description": "Let the USD1 WLFI cabal group handle this. 100% supply released on the LP. I'm out!",
+  "image": "https://raw.githubusercontent.com/yourrepo/eagle/logo.png",
+  "external_url": "https://x.com/i/status/1965842750462730319",
+  "attributes": [
+    { "trait_type": "Type", "value": "SPL Token" },
+    { "trait_type": "Supply", "value": "1,000,000,000" }
+  ]
+}
