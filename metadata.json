@@ -1,6 +1,7 @@
-mpl-token-metadata create 
---mint G88Bgu2D6GZnFRYok1UmPFm5sXqjX8nZAmUPukABeuH9 
---name "Official Cabal USD1" 
---symbol "EAGLE" 
---uri "https://raw.githubusercontent.com/yourrepo/eagle/metadata.json" 
+mpl-token-metadata create
+--mint G88Bgu2D6GZnFRYok1UmPFm5sXqjX8nZAmUPukABeuH9
+--name "Official Cabal USD1"
+--symbol "EAGLE"
+--uri "https://raw.githubusercontent.com/yourrepo/eagle/metadata.json"
+
 
